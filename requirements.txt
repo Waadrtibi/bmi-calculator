@@ -1,1 +1,1 @@
-streamlit 
+ydata-profiling==4.6.4 
